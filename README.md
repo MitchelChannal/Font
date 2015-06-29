@@ -8,3 +8,5 @@ I have to appoligize for my english in advance. My native language is Dutch (Ned
 Development of this font is going to take some time. I didn't even pinpoint a name yet (0)_(0). So patience is a virtue here.
 
 Thanks for reading this text! You're awesome! Really. But you should get a hobby. Or maybe your hobby is reading read-me's. In that case, look at you go! I'm proud of you! :)
+
+Mitch Wensveen
